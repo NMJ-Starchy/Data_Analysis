@@ -6,3 +6,4 @@ This leads me to a couple questions that could help some students decide what ki
 
 ### Analysis
 
+From the graphics, we can see that almost unsurprisingly most asian countries make the most ramen products, as well as some of the best. Some of the more interesting things can be seen that some ramen products from Mexico and other south american continents also produce some good quality ramen. 
